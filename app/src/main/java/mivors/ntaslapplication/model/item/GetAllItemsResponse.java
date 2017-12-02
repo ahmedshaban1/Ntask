@@ -7,7 +7,7 @@ import java.util.ArrayList;
 /**
  * Created by Ahmed shaban on 11/30/2017.
  */
-
+// this is class for mock incoming response
 public class GetAllItemsResponse {
 
     @SerializedName("items")

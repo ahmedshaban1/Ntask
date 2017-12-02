@@ -9,7 +9,7 @@ import com.google.gson.annotations.SerializedName;
 /**
  * Created by Ahmed shaban on 11/30/2017.
  */
-
+// this class mock of single item
 public class Item implements Parcelable {
     @SerializedName("id")
     private int id;

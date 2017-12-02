@@ -15,6 +15,7 @@ import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 
+//this class created to put  providers for retrofit library
 
 @Module
 public class NetworkModule {

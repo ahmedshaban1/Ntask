@@ -35,6 +35,7 @@ public class ConnectivityReceiver extends BroadcastReceiver {
         }
     }
 
+    //this function created  for return this status of internet
     public static boolean isConnected() {
         ConnectivityManager
                 cm = (ConnectivityManager) DaggerApplication.getDaggerApplication().getApplicationContext()

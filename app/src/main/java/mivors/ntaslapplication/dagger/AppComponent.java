@@ -18,7 +18,9 @@ public interface AppComponent {
     //register main activity it will need objects for injection
     void inject(MainActivity mainActivity);
 
+    //register MainPresenter it will need objects for injection
     void inject(MainPresenter mainPresenter);
 
+    //register DetailsActivity it will need objects for injection
     void inject(DetailsActivity detailsActivity);
 }

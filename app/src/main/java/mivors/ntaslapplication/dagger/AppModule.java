@@ -12,7 +12,7 @@ import mivors.ntaslapplication.sqlLite.ItemDbHelper;
 /**
  * Created by Ahmed shaban on 7/30/2017.
  */
-
+//this class created to put main providers an all application
 @Module
 public class AppModule {
     private Application application;

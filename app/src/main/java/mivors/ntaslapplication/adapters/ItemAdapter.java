@@ -22,6 +22,7 @@ import mivors.ntaslapplication.model.item.Item;
  */
 
 public class ItemAdapter extends RecyclerView.Adapter<ItemViewHolder> {
+
     private  Context  context;
     private ArrayList<Item> items;
     private ItemClickListener mItemClickListener;

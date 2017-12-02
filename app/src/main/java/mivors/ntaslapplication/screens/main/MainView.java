@@ -9,6 +9,7 @@ import mivors.ntaslapplication.model.item.Item;
  * Created by Ahmed shaban on 11/30/2017.
  */
 
+//class created for register function for main view
 public interface MainView extends BaseView {
     void showLoading();
     void hideLoading();
